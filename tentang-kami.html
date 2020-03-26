@@ -232,13 +232,22 @@
     <section class="section-padding">
       <div class="container">
         <div class="text-center" style="z-index: 1; position: relative; margin-bottom: 0px;">
-          <div class="row">
-            <div class="col-lg-2">
+          <div class="row large-page">
+            <div class="col-lg-2 col-md-2 col-sm-2">
             </div>
-            <div class="col-lg-8 default-box ">
+            <div class="col-lg-8 col-md-8 col-sm-8 default-box ">
               <img width="100%" src="./assets/img/about/our-value.jpg" alt="">
             </div>
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+            </div>
+          </div>
+          <div class="row small-page" style="display: none;">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 default-box ">
+              <img width="100%" src="./assets/img/about/value-eng.jpg" alt="">
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2">
             </div>
           </div>
           <!-- <div class="row">
@@ -1523,6 +1532,16 @@
         //it wont trigger this event
         $(this).data("isopen", !open);
     });
+  </script>
+  <script>
+    if ($(window).width() < 992) {
+      $('.small-page').show()
+      $('.large-page').hide()
+      $('.small-page').css('padding', '15px')
+    } else {
+      $('.small-page').hide()
+      $('.large-page').show()
+    }
   </script>
 
 </body>
