@@ -264,12 +264,6 @@ h5.subtitle {
     color: #B1B1B1;
 }
 
-.display-gada-headline {
-    /* font-size:3rem; */
-    font-weight:bold;
-    line-height:1.5;
-    font-size: 48px;
-}
 
 .carousel-caption2 {
     display: block;
@@ -2762,6 +2756,13 @@ margin-left: 120px;
 }
 .option-select {
     background-color: #00D1C7; 
+}
+
+.display-gada-headline {
+    /* font-size:3rem; */
+    font-weight:bold;
+    line-height:1.5;
+    font-size: 44px;
 }
 
   
