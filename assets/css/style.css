@@ -2765,8 +2765,176 @@ margin-left: 120px;
     font-size: 44px;
 }
 
-  
+.control-media {
+    margin-top: 50px;
+}
 
+.control-period {
+    list-style-type: none;
+    text-align: left;
+}
+
+.control-li-margin {
+    margin-top: 30px;
+}
+
+.control-padding-undian {
+    padding: 0px !important;
+}
+
+.control-box-undian {
+    background-color: #00D1C7;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 17px;
+    padding-right: 17px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: white;
+}
+
+.control-box-undian:hover {
+    background-color: rgb(80, 248, 240);
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 17px;
+    padding-right: 17px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: white;
+}
+
+.control-box-undian-un {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 51px;
+    padding-right: 52px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: black;
+}
+
+.control-box-undian-un:hover {
+    background-color: rgb(80, 248, 240);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 51px;
+    padding-right: 52px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: black;
+}
+
+.control-box-undian-un-1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 36px;
+    padding-right: 36px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: black;
+}
+
+.control-box-undian-un-1:hover {
+    background-color: rgb(80, 248, 240);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 36px;
+    padding-right: 36px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: black;
+}
+
+.control-box-undian-un-2 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 55px;
+    padding-right: 56px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: black;
+}
+
+.control-box-undian-un-2:hover {
+    background-color: rgb(80, 248, 240);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 55px;
+    padding-right: 56px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: black;
+}
+
+.control-tv {
+    width: 90%;
+}
+
+.control-tv:hover {
+    width: 100%;
+}
+
+.control-sepeda-1 {
+    width: 90%;
+}
+
+.control-sepeda-1:hover {
+    width: 100%;
+}
+
+.control-sepeda-2 {
+    width: 90%;
+}
+
+.control-sepeda-2:hover {
+    width: 100%;
+}
+
+.image-control-margin {
+    margin-top: 50px;
+}
+
+.image-control-margin-bot {
+    margin-bottom: 50px;
+}
+
+.table-border {
+    border: 1px black solid;
+}
+
+.title-table {
+    text-align: center;
+}
+.control-white {
+    background-color: white;
+    color: black;
+}
+
+.control-white:hover {
+    background-color: rgb(80, 248, 240);
+    color: black;
+}
+
+.control-green {
+    background-color: #00D1C7;
+    color: white;
+}
+
+.control-green:hover {
+    background-color: rgb(80, 248, 240);
+    color: white;
+}
 
 /* Menu vertical Start */
 
