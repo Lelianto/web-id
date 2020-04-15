@@ -1826,6 +1826,13 @@ INner Pages
     background-size: cover, contain;
 }
 
+.bg-undian {
+    background:url("../img/undian/ganda-pengumuman.jpg")no-repeat 50% 50%;
+    background-size: contain;
+    width: 100%;
+    margin-top: -3px;
+}
+
 .bg-kontak {
     background:url("../img/kontak/heading-cs.jpg")no-repeat 100% 100%;
     background-size: cover;
@@ -2936,6 +2943,15 @@ margin-left: 120px;
     color: white;
 }
 
+.font-size-control-undian {
+    font-size: 12px;
+    margin-top: 10px;
+    color: rgb(173, 172, 169);
+}
+
+.choosen-date {
+    color: #00D1C7;
+}
 /* Menu vertical Start */
 
 /* Menu vertical End
