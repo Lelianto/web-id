@@ -2977,6 +2977,13 @@ margin-left: 120px;
 .control-top-margin {
     margin-top: -50px;
 }
+
+.border-control-undian {
+    border-right: rgb(247, 241, 241) solid 1px;
+    height: 300px;
+}
+
+
 /* Menu vertical Start */
 
 /* Menu vertical End
