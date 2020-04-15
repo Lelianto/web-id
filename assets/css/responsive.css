@@ -1175,4 +1175,16 @@
         padding-bottom: 121px;
         margin-bottom: 80px;
     }
+    .bg-undian {
+        background: url(../img/undian/ganda-pengumuman.jpg)no-repeat 50% 50%;
+        background-size: contain;
+        width: 100%;
+        margin-top: -24px;
+    }
+    .pemenang-button {
+        margin-bottom: 10px;
+        padding: 15px !important;
+        font-size: 8px !important;
+        width: 100%;
+    }
 }

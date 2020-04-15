@@ -1830,7 +1830,7 @@ INner Pages
     background:url("../img/undian/ganda-pengumuman.jpg")no-repeat 50% 50%;
     background-size: contain;
     width: 100%;
-    margin-top: -3px;
+    margin-top: -35px;
 }
 
 .bg-kontak {
@@ -2782,7 +2782,9 @@ margin-left: 120px;
 }
 
 .control-li-margin {
-    margin-top: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 12px;
 }
 
 .control-padding-undian {
@@ -2792,9 +2794,9 @@ margin-left: 120px;
 .control-box-undian {
     background-color: #00D1C7;
     text-align: center;
-    color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    color: white !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 17px;
     padding-right: 17px;
     cursor: pointer;
@@ -2802,23 +2804,27 @@ margin-left: 120px;
     color: white;
 }
 
+.link-un {
+    text-decoration: none !important;
+}
+
 .control-box-undian:hover {
-    background-color: rgb(80, 248, 240);
+    background-color: #00D1C7;
     text-align: center;
-    color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    color: white !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 17px;
     padding-right: 17px;
     cursor: pointer;
     text-decoration: none !important;
-    color: white;
+    color: white !important;
 }
 
 .control-box-undian-un {
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 51px;
     padding-right: 52px;
     cursor: pointer;
@@ -2827,21 +2833,21 @@ margin-left: 120px;
 }
 
 .control-box-undian-un:hover {
-    background-color: rgb(80, 248, 240);
+    background-color: #00D1C7;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 51px;
     padding-right: 52px;
     cursor: pointer;
     text-decoration: none !important;
-    color: black;
+    color: white !important;
 }
 
 .control-box-undian-un-1 {
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 36px;
     padding-right: 36px;
     cursor: pointer;
@@ -2850,21 +2856,21 @@ margin-left: 120px;
 }
 
 .control-box-undian-un-1:hover {
-    background-color: rgb(80, 248, 240);
+    background-color: #00D1C7;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 36px;
     padding-right: 36px;
     cursor: pointer;
     text-decoration: none !important;
-    color: black;
+    color: white !important;
 }
 
 .control-box-undian-un-2 {
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 55px;
     padding-right: 56px;
     cursor: pointer;
@@ -2873,15 +2879,15 @@ margin-left: 120px;
 }
 
 .control-box-undian-un-2:hover {
-    background-color: rgb(80, 248, 240);
+    background-color: #00D1C7;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
     padding-left: 55px;
     padding-right: 56px;
     cursor: pointer;
     text-decoration: none !important;
-    color: black;
+    color: white !important;
 }
 
 .control-tv {
@@ -2929,7 +2935,7 @@ margin-left: 120px;
 }
 
 .control-white:hover {
-    background-color: rgb(80, 248, 240);
+    background-color: #00D1C7;
     color: black;
 }
 
@@ -2939,7 +2945,7 @@ margin-left: 120px;
 }
 
 .control-green:hover {
-    background-color: rgb(80, 248, 240);
+    background-color: #00D1C7;
     color: white;
 }
 
@@ -2951,6 +2957,25 @@ margin-left: 120px;
 
 .choosen-date {
     color: #00D1C7;
+}
+.control-margin-top {
+    text-align: left;
+    padding-left: 0px;
+}
+.activated {
+    color: white;
+}
+.activated:hover {
+    color: white;
+}
+.non-active {
+    color: black;
+}
+.non-active:hover {
+    color: white;
+}
+.control-top-margin {
+    margin-top: -50px;
 }
 /* Menu vertical Start */
 
