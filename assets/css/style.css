@@ -2811,6 +2811,11 @@ margin-left: 120px;
     text-decoration: none;
 }
 
+.control-wa-button {
+    color: white !important;
+    text-decoration: none !important;
+}
+
 .control-box-undian:hover {
     background-color: #00D1C7;
     text-align: center;
