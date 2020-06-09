@@ -2806,6 +2806,10 @@ margin-left: 120px;
 .link-un {
     text-decoration: none !important;
 }
+.control-wa {
+    color: white !important;
+    text-decoration: none;
+}
 
 .control-box-undian:hover {
     background-color: #00D1C7;
