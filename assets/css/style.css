@@ -270,9 +270,9 @@ h5.subtitle {
     position: absolute;
     right: 55%;
     bottom: 20%;
-    top: 28%;
+    top: 50%;
     /* bottom: 150px; */
-    left: 11%;
+    left: 9%;
     z-index: 10;
     /* padding-top: 20px;
     padding-bottom: 20px; */
@@ -2767,9 +2767,10 @@ margin-left: 120px;
 
 .display-gada-headline {
     /* font-size:3rem; */
+    width: 720px;
     font-weight:bold;
     line-height:1.5;
-    font-size: 44px;
+    font-size: 28px;
 }
 
 .control-media {
